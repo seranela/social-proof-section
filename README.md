@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-70XXBseif9](https://www.frontendmentor.io/solutions/social-proof-section-70XXBseif9)
+- Live Site URL: [https://seranela.github.io/social-proof-section/](https://seranela.github.io/social-proof-section/)
 
 ## My process
 
@@ -37,9 +37,9 @@ Users should be able to:
 
 ### What I learned
 
-Using margins to create a cascaded effect with divs.
+Used margins to create a cascaded effect with divs.
 
-There seems to be mysterious vertical padding with some Google fonts that has to countered with padding.
+There's vertical padding with the Google font in the design guide that has to be countered with padding.
 
 ## Author
 
